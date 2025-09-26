@@ -37,7 +37,7 @@ do
             try 
             {
                 var item = queue.Peek();
-                Console.WriteLine($"Item at front: {item}");
+                Console.WriteLine($"Item in Peek: {item}");
             }
             catch (Exception ex)
             {
