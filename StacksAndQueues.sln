@@ -13,11 +13,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackList.Console", "StackL
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueUsingArray", "QueueUsingArray\QueueUsingArray.csproj", "{B91E0EE0-5818-4907-AF71-C34DEC5EDD5D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueuesArray.UI.Console", "Queues.UI.Console\QueuesArray.UI.Console.csproj", "{6A6756C2-9188-421D-839A-71C231CF8C75}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueArray.UI.Console", "Queues.UI.Console\QueueArray.UI.Console.csproj", "{6A6756C2-9188-421D-839A-71C231CF8C75}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueUsingList", "QueueUsingList\QueueUsingList.csproj", "{D79F566E-719A-4DF3-B905-F1559D3244F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueuesList.UI.Console", "QueuesList.UI.Console\QueuesList.UI.Console.csproj", "{29F40CD8-433D-438F-9A4D-E2494C2E1634}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueList.UI.Console", "QueuesList.UI.Console\QueueList.UI.Console.csproj", "{29F40CD8-433D-438F-9A4D-E2494C2E1634}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
