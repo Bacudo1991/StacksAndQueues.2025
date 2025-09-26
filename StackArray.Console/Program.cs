@@ -22,12 +22,10 @@ try
                 Console.WriteLine(stack.Pop());
                 break;
             default:
-                break;
-            
+                break;            
         }
     }
     while (opt != "0");
-
 }
 catch (Exception ex)
 {
